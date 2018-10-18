@@ -1,0 +1,2 @@
+index.html executes the ajax.js javascript mentioned in the html code.
+There are two buttons displayed in the web page.First is loading the page using .ajax() REST and other button loads using the show.txt file.
